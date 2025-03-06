@@ -16,6 +16,8 @@ A este termino se le puede mencionar o relacionar como un espacio o lugar donde 
 Es la actividad que puede fabricar o desarrollar el producto u objetivo a fabrir en la planta 
 
 ##### Modelos dinamicos 
-+ En modelos de control nos interas obtener los modelos matematicos en el cual relacione las variables de interes contra el tiempo 
++ En modelos de control nos interas obtener los modelos matematicos en el cual relacione las variables de interes contra el tiempo
+  
 $$f(t)$$
+
 + Este modelo tambien cuenta con cambios de variable durante el tiempo lo cual es necesario cuantificar cual es el cambio de las variables de interes contra el tiempo 
