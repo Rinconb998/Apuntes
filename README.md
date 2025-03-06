@@ -21,4 +21,4 @@ Es la actividad que puede fabricar o desarrollar el producto u objetivo a fabrir
 $$f(t)$$
 
 + Este modelo tambien cuenta con cambios de variable durante el tiempo lo cual es necesario cuantificar cual es el cambio de las variables de interes contra el tiempo
-  para visualizar esto lo guarda y lo muestra de una 
+  
