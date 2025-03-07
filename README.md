@@ -23,6 +23,7 @@ $$f(t)$$
 
 #### Como luce los modelos de ecuacione diferenciales 
 Los modelos de ecuaciones diferenciales son representaciones matematicas de sistemas de sistemas o fenomenos del mundo real 
+
 $$X'(t)=\frac{dx}{df}=f(x(t))$$
 
 #### Sistemas lineales y no lineales 
