@@ -34,4 +34,5 @@ $$X'(t)=\frac{dx}{df}=f(x(t))$$
 En un modelo en el momento que se apliquen las leyes de la fisica hay que considerar las insertidumbre que este puede generar, se sugiere que en el moemto de hacer comparaciones con respecto a los dos modelos la diferencia entre los dos modelos deben ser aceptables entre si 
 
 hecho por Brandon Alexis Rincon Ibañez 121981
+          
           Luis Ernesto Sosa Cardenas 114117
